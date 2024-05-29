@@ -1,0 +1,6 @@
+Name: Janne, Age: 33
+Name: Sepeteus, Age: 69
+Nimi: Janne, Ikä: 33
+Nimi: Jakezki, Ikä: 33
+Name: asd, Age: 12
+Name: Janne, Age: 22
